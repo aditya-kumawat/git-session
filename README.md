@@ -1,9 +1,6 @@
 # git-session
 
-First session
 
-Feat-mix
-
-#Contributor names
+## Contributor names
 
 Kabir Kanha Arora
