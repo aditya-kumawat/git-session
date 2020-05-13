@@ -1,7 +1,6 @@
 # git-session
 
-First session
 
-Feat-mix
-
-> Commit by Keshav Vinayak Jha
+## Contributor names
+Kabir Kanha Arora
+Commit by Keshav Vinayak Jha
